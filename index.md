@@ -1,5 +1,5 @@
 ---
-site.title: Gaussian Technologies
+page.title: Gaussian Technologies
 ---
 
 ## Welcome to GitHub Pages
